@@ -1,0 +1,14 @@
+.css-1toxriw-MuiList-root-MuiMenu-list{ /*menu item*/
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+}
+.css-2s8ubb-MuiFormHelperText-root{ /*validacion en formulario*/
+    margin-top: 2px !important;
+    margin-left: 3px !important;
+}
+body{
+    margin: 0 !important;
+}
+main{
+    padding: 0 !important;
+}
